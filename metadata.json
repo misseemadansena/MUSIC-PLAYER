@@ -1,0 +1,8 @@
+{
+  "name": "CG Gaana - Chhattisgarh Trending Music",
+  "description": "Multi-regional music discovery and streaming platform supporting CG Gaana, Bollywood, Punjabi, and Bhojpuri with AI-customized playstyles, explainable trending charts, and dedicated catalog administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
